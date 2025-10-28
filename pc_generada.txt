@@ -1,0 +1,1 @@
+(I9 9900 | Núcleos: 8 | 5 GHz, GTX 1650 | VRAM: 4 GB | RayTracing: No, 32 GB, 512 GB, Linux)

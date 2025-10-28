@@ -1,0 +1,8 @@
+League of Legends,Intel i3,2,3.0,GTX 750,1,false,4,20,(Windows 10, Windows 11, Linux)
+Cyberpunk 2077,Ryzen 5 3600,6,3.6,RTX 2060,6,true,16,70,(Windows 10)
+Minecraft,Intel i3,2,2.8,GTX 660,2,false,4,2,(Windows 10, Windows 11)
+Elden Ring,Ryzen 5 2600,6,3.4,GTX 1070,8,true,12,60,(Windows 10, Windows 11)
+Valorant,Intel i3,2,3.0,GTX 1050,2,false,4,10,(Windows 10, Windows 11)
+The Witcher 3,Intel i5,4,3.2,GTX 970,4,false,8,35,(Windows 10, Windows 11)
+Baldur's Gate 3,Ryzen 5 3600,6,3.6,GTX 1070,8,true,16,150,(Windows 10, Windows 11)
+Stardew Valley,Intel i3,2,2.0,Intel HD Graphics,1,false,2,1,(Windows 10, Windows 11, Linux)
